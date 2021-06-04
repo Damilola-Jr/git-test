@@ -1,1 +1,1 @@
-This is Damilolo's first git project!
+This is Damilola's first git project!
